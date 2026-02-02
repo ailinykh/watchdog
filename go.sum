@@ -1,0 +1,12 @@
+github.com/ailinykh/reposter/v3 v3.0.0-20260123044105-bba1ae073de4 h1:8DzCBLNt2XPkppuPBoSYeTwymFev8lud5N7MCzlG/nM=
+github.com/ailinykh/reposter/v3 v3.0.0-20260123044105-bba1ae073de4/go.mod h1:oYlPxyDI6xZgFnae1d8KE4Q/mM/TOvZTJu4Wxkh3q8c=
+github.com/aws/aws-sdk-go-v2 v1.41.1 h1:ABlyEARCDLN034NhxlRUSZr4l71mh+T5KAeGh6cerhU=
+github.com/aws/aws-sdk-go-v2 v1.41.1/go.mod h1:MayyLB8y+buD9hZqkCW3kX1AKq07Y5pXxtgB+rRFhz0=
+github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.17 h1:xOLELNKGp2vsiteLsvLPwxC+mYmO6OZ8PYgiuPJzF8U=
+github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.17/go.mod h1:5M5CI3D12dNOtH3/mk6minaRwI2/37ifCURZISxA/IQ=
+github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.17 h1:WWLqlh79iO48yLkj1v3ISRNiv+3KdQoZ6JWyfcsyQik=
+github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.17/go.mod h1:EhG22vHRrvF8oXSTYStZhJc1aUgKtnJe+aOiFEV90cM=
+github.com/aws/aws-sdk-go-v2/service/lightsail v1.50.11 h1:VM5e5M39zRSs+aT0O9SoxHjUXqXxhbw3Yi0FdMQWPIc=
+github.com/aws/aws-sdk-go-v2/service/lightsail v1.50.11/go.mod h1:0jvzYPIQGCpnY/dmdaotTk2JH4QuBlnW0oeyrcGLWJ4=
+github.com/aws/smithy-go v1.24.0 h1:LpilSUItNPFr1eY85RYgTIg5eIEPtvFbskaFcmmIUnk=
+github.com/aws/smithy-go v1.24.0/go.mod h1:LEj2LM3rBRQJxPZTB4KuzZkaZYnZPnvgIhb4pu07mx0=
