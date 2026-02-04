@@ -13,14 +13,14 @@ func NewLogger() *slog.Logger {
 		ReplaceAttr: replaceAttr,
 	}
 
-	return slog.New(slog.NewJSONHandler(os.Stderr, opts))
+	return slog.New(slog.NewTextHandler(os.Stderr, opts))
 }
 
 func replaceAttr(groups []string, a slog.Attr) slog.Attr {
 	if a.Key == slog.SourceKey {
 		source := a.Value.Any().(*slog.Source)
 		source.File = filepath.Base(source.File)
-		source.Function = ""
+		source.Function = filepath.Base(source.Function)
 	}
 	return a
 }
